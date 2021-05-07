@@ -1,5 +1,5 @@
 ### Hi 🙋 I am Himika Sultana 😀
-### ⭐ A CSE background student who loves exploring new field 
+### A CSE background student who loves exploring new field 
 
 
 - 🌱 I’m currently learning Manual Testing, SQL
